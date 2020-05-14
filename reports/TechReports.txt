@@ -1,0 +1,4 @@
+1. https://www.thoughtworks.com/de/radar 
+	Trends & Technology reports from thoughtworks.
+
+2. Info Trends report.
