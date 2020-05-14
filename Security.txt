@@ -1,0 +1,9 @@
+SCIM
+1. http://www.simplecloud.info/
+
+Discussions.
+1. SAML vs OAuth https://www.mutuallyhuman.com/blog/choosing-an-sso-strategy-saml-vs-oauth2/ 
+
+OAuth
+1. http://pages.apigee.com/rs/apigee/images/oauth-ebook-2012-02.pdf
+

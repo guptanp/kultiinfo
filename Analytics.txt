@@ -1,0 +1,4 @@
+1. https://hbr.org/2014/09/a-predictive-analytics-primer
+
+TODO
+1. Look up Predictive vs Machine Learning.

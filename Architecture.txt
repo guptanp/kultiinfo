@@ -1,0 +1,13 @@
+1. https://www.enterpriseintegrationpatterns.com/
+
+2. https://12factor.net/config
+
+3. Hypermedia Architecture http://mamund.site44.com/talks/2016-04-sacon-patterns/2016-04-sacon-patterns.pdf
+
+4. Load Balancing https://socket.io/docs/using-multiple-nodes/
+
+Patterns.
+1. Circuit Breaker - https://martinfowler.com/bliki/CircuitBreaker.html
+
+
+Schema https://schema.org/

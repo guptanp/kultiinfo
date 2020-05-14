@@ -1,0 +1,6 @@
+GO
+1. http://techbeacon.com/sites/default/files/gated_asset/research-study-hpe-iot-security-internet-of-things.pdf
+
+2. https://blog.golang.org/concurrency-is-not-parallelism
+
+3. https://talks.golang.org/2015
