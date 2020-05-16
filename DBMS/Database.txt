@@ -3,12 +3,41 @@ Data Testing.
 1. Yahoo Testing 
 	https://github.com/brianfrankcooper/YCSB
 	https://research.yahoo.com/news/yahoo-cloud-serving-benchmark/
-2. https://db-engines.com/en/
 
-3. https://dbdb.io/
+
+Reports
+1. https://db-engines.com/en/
+
+2. https://dbdb.io/
 	Database of databases report.
-4. http://saphanatutorial.com/how-yarn-overcomes-mapreduce-limitations-in-hadoop-2-0/
+
+Other 
+1. http://saphanatutorial.com/how-yarn-overcomes-mapreduce-limitations-in-hadoop-2-0/
+2. http://www.javaworld.com/article/2078664/java-app-dev/10-things-never-to-do-with-a-relational-database-.html
 
 
 Tutorials
 https://www.dezyre.com/projects/data-science-projects
+
+
+Big Data
+1. https://www.youtube.com/watch?v=S79-buNhdhI
+
+2. https://bigdatawg.nist.gov/home.php
+	NIST working group on big data
+
+
+
+TimeSeries
+
+1. https://en.wikipedia.org/wiki/Time_series
+
+2. https://kairosdb.github.io/
+
+3. https://www.xaprb.com/blog/2014/03/02/time-series-databases-influxdb/
+
+4. http://tinkerpop.apache.org/
+
+5. http://s3.thinkaurelius.com/docs/titan/1.0.0/arch-overview.html
+
+6. http://graphiteapp.org/
