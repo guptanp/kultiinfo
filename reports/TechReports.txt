@@ -2,3 +2,10 @@
 	Trends & Technology reports from thoughtworks.
 
 2. Info Trends report.
+
+
+
+General Reading Stuff.
+
+1. https://www.hackster.io/bees/aws-iot-and-beehives-c59fff?ref=list&ref_id=2672&offset=4
+
