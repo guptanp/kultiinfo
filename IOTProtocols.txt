@@ -1,3 +1,12 @@
 Modbus
 
 1. http://www.modbus.org/tech.php
+
+
+MQTT
+1. http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html
+2. https://github.com/mqtt/mqtt.github.io/wiki/servers
+3. http://www.redbooks.ibm.com/redbooks/pdfs/sg248054.pdf
+4. http://mosquitto.org/
+5. http://mqtt.org/faq
+
